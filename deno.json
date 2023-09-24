@@ -1,0 +1,11 @@
+{
+  "fmt": {
+    "useTabs": true,
+    "semiColons": false,
+    "singleQuote": true,
+    "lineWidth": 1000
+  },
+  "imports": {
+    "deno_tests": "https://deno.land/std@0.202.0/assert/assert_equals.ts"
+  }
+}
